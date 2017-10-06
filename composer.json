@@ -1,0 +1,11 @@
+{
+    "name": "jsnlib/swoole",
+    "description": "輔助 Swoole 的工具",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Jsnlib\\": "src"
+        }
+    }
+}
