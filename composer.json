@@ -3,6 +3,9 @@
     "description": "輔助 Swoole 的工具",
     "type": "library",
     "license": "MIT",
+    "require": {
+        "php": ">=7.0.0"
+    },
     "autoload": {
         "psr-4": {
             "Jsnlib\\": "src"
